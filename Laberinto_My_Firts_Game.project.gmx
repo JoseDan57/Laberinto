@@ -42,6 +42,7 @@
     <sprite>sprites\sprArañaAbajo</sprite>
     <sprite>sprites\sprEnemigoBu</sprite>
     <sprite>sprites\sprEsqueleto</sprite>
+    <sprite>sprites\sprFuego</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -67,6 +68,7 @@
       <object>objects\objEnemigoV</object>
       <object>objects\objAra_aAbajo</object>
       <object>objects\objEsqueleto</object>
+      <object>objects\objfuego</object>
       <object>objects\objEnemigoBu</object>
       <object>objects\objEnemigoH</object>
       <object>objects\objEnemigo3</object>
